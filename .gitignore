@@ -1,0 +1,103 @@
+# gulp
+node_modules
+maps
+
+# Wordpress
+
+*.log
+wp-content/uploads/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/blogs.dir/
+#wp-admin/.htaccess
+
+# sitemaps
+
+sitemap.xml
+sitemap.xml.gz
+google-news-sitemap.xml
+
+
+
+# Cache
+
+wp-content/wp-cache-config.php
+wp-content/advanced-cache.php
+wp-content/cache/
+
+
+
+# NFS Directory
+
+wp-content/NFS/
+wp-content/NFS
+
+
+
+# Komodo Files
+
+*.komodoproject
+
+
+
+# SVN
+
+.svn/
+
+
+
+# Eclipse
+
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+
+
+
+# IntelliJ IDEA, PhpStorm, etc.
+
+*.iml
+*.ipr
+*.iws
+.idea/
+*.idea
+
+
+
+# NetBeans
+
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+
+# Mac OS X
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+
+
+# Sublime Text
+
+*.sublime-project
+*.sublime-workspace
